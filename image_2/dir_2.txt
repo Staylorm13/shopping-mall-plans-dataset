@@ -1,0 +1,113 @@
+the 1th line  | ===============>
+430 | Bijouterie Doucet
+790 | Bijouterie Latendresse
+120 | Bijouterie Monaco
+582 | Bijouterie pJ. Bartier
+653 | Bizou
+240 | Claire's
+1310 | Les Bijoux Mia
+652 | Centre du Rasoir
+90 | Kozy
+81 | Grif  & Graf
+810 | Stokes
+CHAL | ISSURES ET ARTICLES DE CUIR
+820 | Bentley
+500 | Bopied
+280 | Club
+670 | Panda
+721 | Rieker
+540 | Spring
+760 | Yellow Express
+DIVER | ISSEMENT
+10 | Boutique Griffon
+1070 | Cinema (9)
+550 | EB Games
+1042 | Party
+1022 | Les disquaires Sunrise
+110 | Renaud-Bray
+SANT | ET BEAUTE
+21 | Centre Dentaire du Nord
+411 | Dolce Caresse
+470 | Iconic
+401 | Jolis Ongles
+620 | Maysy
+130 | Naturiste
+1063 | Pharmaprix
+1064 | Tech Gym
+50 | Yves Rocher
+the 2th line  | ===============>
+651 | Artist phone
+800 | Bell
+1220 | Fido
+160 | Koodo
+1350 | La cabine Tsans fil
+1023 | La Source
+1395 | Snap
+770 | Rogers Plus
+200 | Telus
+750 | Videotron
+1370 | Virgin Mobile
+1390 | WOW! boutique mobile
+SUPER | MARCHE ET ALIMENTATION
+590 | Laura Secord
+1030 | Joe Fresh (Maxi & Ciel
+VETEN | MENTS HOMMES
+1050 | Ardene
+241 | Cazza Petite
+310 | Claire France (14+1
+190 | Colori
+710 | Eonoite
+270 | Eonoite
+220 | Garage
+480 | La Senza
+740 | La Vie en Rose
+850 | les Cousins
+290 | Manteaux Manteaux
+210 | Marie Claire
+862 | Rio Sud
+560 | San Francisco
+440 | Suzy Shier
+690 | Tristan
+300 | OK Kids
+1054 | Urban Planet
+the 3th line  | ===============>
+GRAN | DS MAGASINS
+1062 | Dollarama
+1052 | Winners
+SPOR | S ET LOISIRS
+410 | Idolem Yoga Chaud
+1041 | Sports Experts / Atmosphere
+RESTA | URANTS
+2 | A8W
+630 | Cafe Depct
+1000 | Kabab
+7330 | Masako Sushi
+0O | Poulet Rovge
+861 | Saint Cinnamon
+1005 | Subway
+7003 | Thai Express
+1004 | Valentine
+SERVIC | CES ET SPECIALITES
+41 | Animonde
+380 | Aspirateur 2000 Plus
+341 | Banque Nationale
+400 | Cordonnerie CDN
+390 | De Filen Aiguille
+600 | Greiche & Scaff 
+581 | le Vapeur Express
+1130 | Loto-Quebec
+1140 | Loto-Quebec
+231 | Lunetterie Vue
+the 4th line  | ===============>
+460 | Brummell
+830 | Chads
+170 | Ernest
+840 | Jack & Jones
+360 | Vincent d' Amerique
+VETEL | MENTS UNISEXES
+1021 | 1850
+722 | Bikini Village
+320 | Jean Blev
+520 | Le Chateau
+260 | TShirt Xpression
+780 | Unltd¡£

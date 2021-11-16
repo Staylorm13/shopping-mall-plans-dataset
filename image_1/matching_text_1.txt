@@ -1,0 +1,49 @@
+C40 | Avenue Cafe(Breakfast & Lunch)
+C41 | Blizz Frozen Yogurt
+C42 | Bonannos Pizzeria
+C01A | Cabana Grill
+C01B | China Tan
+C02 | gCorner Cakes
+C02A | Crush
+C03 | Emers seato
+C05 | Fat Tuesday
+C07 | FiAMMA talian Kitchen
+C09 | Grand Buffet
+C10 | Haagen-Dazs
+C11A | HECHO en Vegas Mexican Grill
+C11 | Joel Robuchon
+C12 | Johnny Rockets
+C13 | LAtelier de Joel Robuchon
+C13A | Michael Mina PUB 1842
+C15 | Morimoto
+C16 | New York Pretzel
+C17 | Pan Asian
+CK3A | SDorts De
+CK01 | liStarbucks
+CK02 | tbwa
+CK03 | Taco &"Ritas
+C19 | TAP Sports Barnee
+C36 | The Dapper Doughnut
+C35 | Tom Colicchio's Craftsteak
+C33A | Brad Garretts Comedy Club
+C33 | CBS Television C
+The Experience | CSI
+C31 | David Copperfield Theater
+C29 | Grand Garden Arena
+C30 | Jabbawockeez Theater
+C03A | KA THeatre
+C28 | Virtual Reality Experience
+===============> | the 2th line
+C27 | Centrifuge
+C26 | Level Up
+C25 | Lobby Bar
+C23A | Losers Bar
+C23 | Whiskey Down Lounge & Gaming
+C22 | Thai Express
+C21 | Beauty Shop
+C20 | Masako Sushi
+C18 | Black Clover
+C37 | Cafe Depct
+C06 | URANTS
+C08 | Sports Experts / Atmosphere
+
